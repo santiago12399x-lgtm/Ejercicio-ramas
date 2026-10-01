@@ -7,3 +7,16 @@ body {
 h1 {
   color: green;
 }
+
+button {
+  background: #2e7d32;
+  color: white;
+  border: 0;
+  border-radius: 6px;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1b5e20;
+}
